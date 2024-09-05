@@ -1,14 +1,14 @@
-x=20
-if x >= 10 :
-  print('조건이 ??일 때 출력')
-print('이건 언제 출력할까??')
-
-age =int(input('니 나이 써라'))
-if age <= 13 :
-  print('넌 좆밥이다')
-else :
-  if age <= 17:
-    print('청소년')
-  else:
-    print('어른')
+B = int(input('배터리 잔량:'))
+if B <= 0:
+  print('종료')
+elif B <= 10:
+  print('충전 ㄱㄱ')
+elif B <= 20:
+  print('저전력')
+else:
+  print('장상작동')
   
+  tier = '브론즈'
+  cha = 'yasuo'
+  if tier = 'bronze' and cha == 'yasuo'
+  print('scientist')
