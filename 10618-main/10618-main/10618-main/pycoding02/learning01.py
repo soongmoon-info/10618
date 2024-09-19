@@ -7,8 +7,12 @@ elif B <= 20:
   print('저전력')
 else:
   print('장상작동')
-  
+
+
   tier = '브론즈'
   cha = 'yasuo'
-  if tier = 'bronze' and cha == 'yasuo'
-  print('scientist')
+  if tier == 'bronze' and cha == 'yasuo':
+    print('scientist')
+
+
+call = input('-를 제외하고 입력해주세요.')
